@@ -5,6 +5,8 @@ Diffraction through pinholes
 
 GUI app that generates beautiful diffraction patterns
 
+Example: https://cloud.githubusercontent.com/assets/16962748/12685429/a2237c78-c6c4-11e5-89a5-6f7e0305557a.png
+
 Inspired by:
 http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain
 (see no.48):
